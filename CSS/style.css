@@ -1,0 +1,19 @@
+body {
+    background-color: #f7f3e9;
+}
+.navbar, .footer {
+    background-color: #8b4513;
+}
+.navbar-brand, .nav-link, .footer-text {
+    color: #fff !important;
+}
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+.card {
+    margin-bottom: 30px;
+}
+.card-title, .card-text {
+    color: #5a3e36;
+}
