@@ -1,0 +1,68 @@
+:root{
+    --corBase: #aa7448;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#f7e8dc, #e7c5aa);
+    color: #333;
+}
+
+
+
+main {
+    padding: 2rem;
+}
+
+
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    box-shadow: 10px 10px 20px;
+    width: 30vh;
+    height: 30vh;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    margin-top: 15vh;
+}
+
+.navbar {
+    background-color: #aa7448;
+}
+
+
+
+h2 {
+    margin-top: 1.5rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #ffffff;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+span{
+    font-weight: bolder;
+}
